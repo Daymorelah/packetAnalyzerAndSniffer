@@ -18,5 +18,4 @@ gives you more info about the packet being sniffed like what a typical **_wiresh
 - Download [Geany](https://www.geany.org/Download/Releases) if you dont already have one installed.
 - Ensure data is being sent across a networkr you want to listen on
 - Execute the script.
-- This Script is to be used for Educational purposes only. Hackig without the concent of the owner is a criminal
-offence purnishable by LAW.....be smart :wink:
+- This Script is to be used for Educational purposes only. Sniffing or analyzing data packets without the concent of the owner is a criminal offence purnishable by LAW.....be smart :wink:
